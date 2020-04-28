@@ -1,9 +1,2 @@
-in my branch 
-this is my code 
-dfdfd
-dfd
-* here is my code from master branch
-f
-df
-df
-df
+from master 
+*code here
