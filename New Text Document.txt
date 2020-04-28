@@ -2,8 +2,7 @@ in my branch
 this is my code 
 dfdfd
 dfd
-fd
-fd
+* here is my code from master branch
 f
 df
 * here is my code from branch "branch"
